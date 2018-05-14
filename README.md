@@ -73,7 +73,7 @@ If your OS doesn't support flag emojis, you will see the ISO 3166-1 alpha-2 coun
 * Arizona = 🌵 (Cactus)
 * Arkansas = 🌾 (Sheaf of Rice) - Arkansas produces the most rice
 * California = 🍇 (Grapes) - California produces the most grapes and wine of any state
-* Colorado = ⛷️ (Skier) - Well-known for Skiing
+* Colorado = ⛷️ (Skier) - Well-known for Skiing, home of the Rockies
 * Connecticut = 🥏 (Flying Disc) - State of origin for the Frisbee
 * Delaware = 💎 (Gem Stone) - Delaware's unofficial nickname is "The Diamond State"
 * Florida = 🐊 (Crocodile) - Everglades
@@ -90,10 +90,10 @@ If your OS doesn't support flag emojis, you will see the ISO 3166-1 alpha-2 coun
 * Maine = 🌳 (Deciduous Tree) - Maine is the most forested state in the US at 89.0% (Use Lobster when it comes out)
 * Massachusetts = 🦃 (Thanksgiving) - Originating state for holiday, turkey is state bird
 * Michigan = 🚗 (Automobile) - Well-known place for automakers
-* Minnesota = 🍎 (Red Apple) - State fruit
+* Minnesota = 🏒 (Ice Hockey) - State sport
 * Mississippi = 🦆 (Duck) - Only state to have a duck as a state bird (Wood Duck)
 * Missouri = 🎻 (Violin) - State's musical instrument
-* Montana = 🏔 (Snow-Capped Mountain) - Home to Glacier National Park, name is from the Spanish word for "Mountain"
+* Montana = 🏔 (Snow-Capped Mountain) - Home to Glacier National Park, home of the Rockies
 * Nebraska = 🐄 (Cow) - Most cattle after Texas
 * Nevada = 🎲 (Game Die) - Known for Las Vegas and gambling
 * New Jersey = 💐 (Bouquet) - Known as the Garden State
