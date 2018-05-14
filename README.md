@@ -4,7 +4,7 @@
 Idea for an API: Given an IP, return an emoji flag.
 
 * Emoji flags here: https://emojipedia.org/flags/
-* Maxmind GeoIP API here: https://dev.maxmind.com/geoip/geoip2/geolite2/
+* Geo IP API here (returns XML blob): http://api.geoiplookup.net/?query=1.1.1.1
 
 If your OS doesn't support flag emojis, you will see the ISO 3166-1 alpha-2 country code instead (e.g. DE for Germany). RFC 1591, the standard for country-code based TLDs is based on the same standard.
 
@@ -108,7 +108,7 @@ If your OS doesn't support flag emojis, you will see the ISO 3166-1 alpha-2 coun
 * Pennsylvania = 🔔 (Bell) - Known for Liberty Bell
 * Rhode Island = ⛵ (Sailboat) - Known for sailboats and known as "The Ocean State"
 * South Carolina = 🌴 (Palm Tree) - Palm Tree is Symbol of South Carolina
-* South Dakota = 🗿 (Moai) - Known for Mount Rushmoore
+* South Dakota = 🗿 (Moai) - Known for Mount Rushmore
 * Tennessee = 🎙️ (Studio Microphone) - Known as the radio and music capital of the US
 * Texas = 🐎 (Horse) - Texas has the most horses and is known for Cowboys
 * Utah = 💮 (White Flower) - Sego Lily is the state flower
