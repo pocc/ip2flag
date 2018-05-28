@@ -1,0 +1,12 @@
+{
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Prepend a flag to an IP address based upon the country in which that IP exists",
+   "manifest_version": 2,
+   "name": "ip2flag",
+   "update_url": "https://github.com/pocc/ip2flag",
+   "version": "0.0"
+}
